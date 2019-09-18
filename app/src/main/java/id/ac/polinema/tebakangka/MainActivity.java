@@ -55,9 +55,6 @@ public class MainActivity extends AppCompatActivity {
                 guessButton.setEnabled(false);
                 numberText.setEnabled(false);
                 resetButton.setEnabled(true);
-
-                System.out.println("ABCDEFG");
-
             }
         }
     }
